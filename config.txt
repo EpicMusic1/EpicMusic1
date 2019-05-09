@@ -3,4 +3,4 @@ owner=326131905743421440
 prefix=1
 game=1help
 stayinchannel=false
-songinstatus=true
+songinstatus=false
